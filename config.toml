@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://japsystem.github.io/qrsite/"
 languageCode = "en-us"
 title = "Demo QR Site"
 theme = "resto-hugo"
